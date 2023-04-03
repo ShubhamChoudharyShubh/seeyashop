@@ -20,3 +20,4 @@ At this time, I am not accepting contributions to this project. However, if you 
 
 Credits:
 I would like to give credit to the Easy Tutorials YouTube channel for providing the tutorial that I used to create this website. Without their help, I would not have been able to create this project.
+..
