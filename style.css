@@ -323,7 +323,7 @@ select{
     padding: 5px;
 }
 select:focus{
-    outline: none;
+    outline-color: transparent;
 }
 .page-btn{
     margin: 0 auto 80px;
@@ -372,7 +372,7 @@ padding: 20px;
 }
 
 input:focus{
-    outline: none;
+    outline-color: transparent;
 }
 .small-img-row{
     display: flex;
@@ -479,7 +479,7 @@ form .btn{
     margin: 10px 0;
 }
 form .btn:focus{
-    outline: none;
+    outline-color: transparent;
 }
 #LoginForm{
     left: -300px;
